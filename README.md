@@ -1,2 +1,1 @@
-# pipeline
-Node + Mongo api for uoftsocial
+Api for uoft social
